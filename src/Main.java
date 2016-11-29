@@ -12,6 +12,6 @@ public class Main {
         myDogs[0].bark();
         myDogs[1] = new Dog();
         myDogs[1].bark();
-        myDogs[0].2
+        myDogs[0].bark();
     }
 }
