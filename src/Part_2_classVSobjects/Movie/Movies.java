@@ -1,13 +1,13 @@
-package Part_2_classVSobjects;
+package Part_2_classVSobjects.Movie;
 
 public class Movies {
     String name;
     int movieTime;
-    int movieRating;
+    byte movieRating;
     String genre;
 
 
-    void playIt()
+    public void playIt()
     {
         System.out.println("Відтворення фільму: " + name );
     }

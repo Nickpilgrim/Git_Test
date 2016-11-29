@@ -1,4 +1,4 @@
-package Part_2_classVSobjects;
+package Part_2_classVSobjects.Movie;
 
 public class TestClass {
     public static void main(String[]args)

@@ -5,6 +5,5 @@ public class GameLauncher {
     {
         GuessGame game = new GuessGame();
         game.startGame();
-
     }
 }
